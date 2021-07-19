@@ -4,12 +4,12 @@ A video game where you navigate the spaceship using the right arrow key and left
 
 Previews of the game:
 
- ![ Alt text](lunarmissionfailed.gif)  [](lunarmissionfailed.gif)
+ ![Failed](lunarmissionfailed.gif)
  
  
- ![ Alt text](lunarmissionsuccessful.gif)  [](lunarmissionsuccessful.gif)
+ ![Sucessful](lunarmissionsuccessful.gif)
 
 
 Tools used:
 
--Visual Studio
+- Visual Studio
